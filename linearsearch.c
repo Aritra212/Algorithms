@@ -16,7 +16,7 @@ int main(){
     while(1){
         printf("\n------------------------------------\n");
         printf("\nEnter '1' to search elements using array.");
-        printf("\nEnter '2' to search elements using linked list.");
+        //printf("\nEnter '2' to search elements using linked list.");
         printf("\nEnter '0' to exit.");
         printf("\nEnter '6' to create new array");
         printf("\nEnter '7' to Display Array elements.");
